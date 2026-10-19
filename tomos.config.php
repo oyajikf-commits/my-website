@@ -20,8 +20,8 @@ if (!is_string($tomosRoot) || trim($tomosRoot) === '') {
 
 return [
     'site' => [
-        'name' => $siteName,
-        'description' => '',
+        'name' => '福田恵介',
+        'description' => '日記やら気になった出来事に関する記事、猫さんについて書き散らかすサイトです。',
         'url' => 'https://' . $owner . '.github.io',
         'base_path' => $basePath,
         'language' => 'ja',
