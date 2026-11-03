@@ -7,15 +7,13 @@ published: 2026-11-03T13:16:14+00:00
 
 # Making Money in a Hostile State：Entrepreneurship, Property Rights, and the Rise of Markets in North Korea
 
-この本は、北朝鮮の経済と政治体制を理解するうえで、非常に興味深い研究書です。
+この本は、北朝鮮の経済と政治体制を理解するうえで、非常に興味深い研究書です。![9780231567022](files/article-420aa341a634/tms-a6d8e6038448cd8f.jpg)
 
 とくに注目したいのは、\*\*「私有財産も民間企業も原則として認めない北朝鮮で、なぜ市場経済が発展し、民間の起業家が活動できるようになったのか」\*\*という問題を、約40年間の歴史から解き明かそうとしている点です。
 
 著者は、北朝鮮研究者として知られるアンドレイ・ランコフ（Andrei Lankov）教授と、政治経済研究者のピーター・ウォード（Peter Ward）氏です。
 
 ただし、2026年11月3日現在、本書はまだ刊行前で、2027年2月2日の発売予定です。以下はコロンビア大学出版局が公表している紹介文に基づく概要と、そこから読み取れる研究上の意義を整理したものです。全文を読んだうえでの書評ではありません。
-
-[image](https://www.google.com/s2/favicons?domain=https://cup.columbia.edu\&sz=32)
 
 [出版社の公式紹介ページ](https://cup.columbia.edu/book/making-money-in-a-hostile-state/9780231567022/?utm_source=chatgpt.com)
 
