@@ -1,11 +1,11 @@
 ---
-title: "Making Money in a Hostile State：Entrepreneurship, Property Rights, and the Rise of Markets in North Korea"
+title: "<**Coming Soon** >Making Money in a Hostile State：Entrepreneurship, Property Rights, and the Rise of Markets in North Korea"
 date: 2026-11-03
 draft: false
 published: 2026-11-03T13:16:14+00:00
 ---
 
-# Making Money in a Hostile State：Entrepreneurship, Property Rights, and the Rise of Markets in North Korea
+# <**Coming Soon** >Making Money in a Hostile State：Entrepreneurship, Property Rights, and the Rise of Markets in North Korea
 
 この本は、北朝鮮の経済と政治体制を理解するうえで、非常に興味深い研究書です。![9780231567022](files/article-420aa341a634/tms-a6d8e6038448cd8f.jpg)
 
